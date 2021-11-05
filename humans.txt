@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Jim Beam @jim@beam
 
 # THANKS
 
